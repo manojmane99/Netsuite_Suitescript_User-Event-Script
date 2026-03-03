@@ -43,3 +43,6 @@ define(['N/record', 'N/log'], function(record, log) {
         beforeSubmit: beforeSubmit
     };
 });
+
+
+This is an user event script
